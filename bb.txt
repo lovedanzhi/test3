@@ -1,1 +1,2 @@
 bbbbbb
+git log --oneline --all --graph
